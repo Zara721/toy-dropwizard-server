@@ -1,5 +1,3 @@
-name: "dropwizard-ci-pipeline"
-
 name: continuous integration example
 
 on:
